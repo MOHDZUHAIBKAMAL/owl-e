@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435167638738",
+    "project_id": "journalfixed",
+    "storage_bucket": "journalfixed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435167638738:android:eb46f3e35b9fb0b0e6e90b",
+        "android_client_info": {
+          "package_name": "com.example.journal_fixed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSUHV1FJSgj7L8RW1VT2po316lAPQf6Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
